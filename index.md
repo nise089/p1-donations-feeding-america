@@ -1,29 +1,29 @@
-## Welcome to GitHub Pages
+[logo]: https://https://github.com/nise089/p1-donations-feeding-america/edit/gh-pages/Logo_UR.svg "Logo Title Text 2"
 
-You can use the [editor on GitHub](https://github.com/nise089/p1-donations-feeding-america/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to the project site of Pro-Social Behavior
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Thank you for participation in the study.
 
-### Markdown
+On this website, I provide you with information on the project.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Experimental Results
 
-```markdown
-Syntax highlighted code block
+| total number of participants | XXXX |
+|------------------------------|-----:|
+| share of decision makers choosing option B (in situations with both options available) | XXXX |
+| share of committee members vote for ban A  | XXXX |
+| share of committee members vote for ban B  | XXXX |
+| share of committee members vote for no regulation  | XXXX |
+| **total donations** | **XXXX** |
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Donations to Feeding America
 
-1. Numbered
-2. List
+Overall $XXXX were donated to Feeding America.
 
-**Bold** and _Italic_ and `Code` text
+Add certificate here
 
-[Link](url) and ![Image](src)
+[Feeding America](feedingamerica.org) and ![Image](https://https://github.com/nise089/p1-donations-feeding-america/edit/gh-pages/Logo_UR.svg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
