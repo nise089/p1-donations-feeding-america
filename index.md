@@ -1,6 +1,5 @@
-[logo]: https://https://github.com/nise089/p1-donations-feeding-america/edit/gh-pages/Logo_UR.svg "Logo Title Text 2"
-
-## Welcome to the project site of Pro-Social Behavior
+## Welcome to the project site of Pro-Social Behavior 
+![image](Logo_UR.svg)
 
 Thank you for participation in the study.
 
@@ -23,7 +22,7 @@ Overall $XXXX were donated to Feeding America.
 
 Add certificate here
 
-[Feeding America](feedingamerica.org) and ![Image](https://https://github.com/nise089/p1-donations-feeding-america/edit/gh-pages/Logo_UR.svg)
+[Feeding America](feedingamerica.org) and ![Image](Logo_UR.svg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
