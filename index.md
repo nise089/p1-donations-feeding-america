@@ -31,7 +31,7 @@ In **BASE**, there is only the role of the Decision Maker. It consists only of t
 
 ## Final Donations
 
-Overall **£XXXX donations** were generated within the experiment. Thereof £XXXX ($XXX) were donated to [Feeding America](feedingamerica.org) and £XXXX (XXX kr) were donated to [Cancerfonden](Cancerfonden.se).
+Overall **£1.708 donations** were generated within the experiment. Thereof £832 ($1.095) were donated to [Feeding America](feedingamerica.org) and £876 (10.846 SEK) were donated to [Cancerfonden](Cancerfonden.se).
 
 XXX Add certificates here XXXX
 
@@ -39,18 +39,36 @@ XXX Add certificates here XXXX
 
 **Vote distribution of Committee Members**
 
-|  	 na		| 	SWE 			| 	USA 			|
-|-----------------------|:--------------------------------:|-------------------------------|
-|	N		| 39 				| 	39 			|
-| % voted for ban A	 | 15.4 			|	20.5 			|
-| % voted for ban B 	| 43.6 	   			|	46.1 			|
-| % voted for no regulation | 0.41 			|	33.3 			|
 
-**Choice of Decision Makers in BASE and AUTHORITY treatment**
-
-In the Authority treatment the choice of Decision Makers in the situation of no regulation by majoritiy voting is reported.
-
-<table>
+|Committee Members| Decision Makers|
+|--|--|
+|<table>
+	<tr>
+		<th> </th>
+		<th>SWE </th>
+		<th> USA</th>
+	</tr>
+	<tr>
+		<td> N</td>
+		<td>39</td>
+		<td> 39</td>
+	</tr>
+	<tr>
+		<td> % voted for ban A</td>
+		<td>15.4 </td>
+		<td> 20.5</td>
+	</tr>
+	<tr>
+		<td> % voted for ban b</td>
+		<td>43.6 </td>
+		<td> 46.1</td>
+	</tr>
+	<tr>
+		<td> % voted  no regulation</td>
+		<td>41.0 </td>
+		<td> 33.3 </td>
+	</tr>
+</table> |<table>	
   <tr>
 	  <th></th>
    	 <th colspan=2>SWE</th>
@@ -77,9 +95,11 @@ In the Authority treatment the choice of Decision Makers in the situation of no 
 	<td>69.5</td>
 	<td>69.8</td>
   </tr>
-</table>
+</table>|
 
+**Choice of Decision Makers in BASE and AUTHORITY treatment**
 
+In the Authority treatment the choice of Decision Makers in the situation of no regulation by majoritiy voting is reported.
 ------------------------------
 Denise Huber, M.A.
 University of Regensburg, Germany
